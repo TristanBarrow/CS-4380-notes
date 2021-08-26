@@ -13,3 +13,6 @@ Another thing I will personally be doing is trying to setup a set of "requiremen
 I hope to add some extra information to this repo that will also be just "good to know" stuff that you should know for industry so look out for that if you are following this.
 
 
+## Contribution
+
+If you want to contribute to these notes please do. Please just make a new branch and create a PR into main. Or just add a file to the wiki.
